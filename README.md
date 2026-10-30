@@ -7,12 +7,12 @@ The project therefore studies the connection between established professional du
 2. Aim and Objectives
 The main aim is to understand the evolution of legal ethics in India in the context of artificial intelligence and changing legal practice.
 The objectives are:
-1. To identify the professional duties and ethical responsibilities expected of advocates.
-2. To examine how the Supreme Court deals with professional misconduct, discipline, and accountability.
-3. To study judicial concerns relating to AI-generated or non-existent judgments and legal citations.
-4. To examine the reliability and verification of electronic evidence in an era of AI and deepfakes.
-5. To identify continuities between traditional professional ethics and newer expectations of responsible AI use.
-6. To organise the judgments into a structured dataset and use charts to identify broad patterns.
+ To identify the professional duties and ethical responsibilities expected of advocates.
+ To examine how the Supreme Court deals with professional misconduct, discipline, and accountability.
+ To study judicial concerns relating to AI-generated or non-existent judgments and legal citations.
+ To examine the reliability and verification of electronic evidence in an era of AI and deepfakes.
+ To identify continuities between traditional professional ethics and newer expectations of responsible AI use.
+ To organise the judgments into a structured dataset and use charts to identify broad patterns.
    
 3. Research Questions
 - How has the Supreme Court interpreted advocates’ professional duties and misconduct during the study period?
